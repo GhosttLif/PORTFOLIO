@@ -7,9 +7,9 @@
 
 ---
 
-![portafolio-presentacion]()
+![portafolio-presentacion](https://ghosttlif.github.io/portfolio/)
 
 ---
 
-[**Link del sitio web** ✌])
+[**Link del sitio web** ✌])(https://ghosttlif.github.io/portfolio/)
 ---
