@@ -11,5 +11,5 @@
 
 ---
 
-[**Link del sitio web** ✌])(https://ghosttlif.github.io/portfolio/)
+
 ---
