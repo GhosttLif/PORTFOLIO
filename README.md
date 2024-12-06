@@ -7,9 +7,9 @@
 
 ---
 
-![portafolio-presentacion](https://user-images.githubusercontent.com/110046283/202334878-7ce721f1-db39-4388-bc39-8f9d141015a3.png)
+![portafolio-presentacion]()
 
 ---
 
-[**Link del sitio web** ✌](https://mariana-am-portafolio.netlify.app/)
+[**Link del sitio web** ✌])
 ---
